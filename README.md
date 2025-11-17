@@ -26,12 +26,7 @@
 <div align="right" width="57%">
  
 <br>
-<a href="https://github.com/lilpacy/metrics/blob/master/.github/readme/partials/documentation/setup/action.md">
-  <img width="57%" src="/github-metrics.svg" />
-</a>
-</div>
-
-
+ 
 <!--
 **ispatie/ispatie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
